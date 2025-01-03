@@ -30,9 +30,7 @@ If you use this repository or its findings in your work, please cite our paper a
 ## Contact
 For any queries or collaborations, please contact: [Omar Faruk - LinkedIn Profile: ](https://www.linkedin.com/in/omar-faruk-vai/).
 
-### Connect on LinkedIn
-Feel free to connect with us on LinkedIn for more updates and discussions:
-- [Your Name - LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
+
 
 ---
 
